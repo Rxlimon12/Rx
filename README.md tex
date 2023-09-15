@@ -20,7 +20,7 @@ pip install rich
 
 rm -rf BDMC 
 
-git clone --depth=1  https://github.com/Rxlimon12/Rx/new/main?readme=1
+git clone --depth=1  https://github.com/Rxlimon12/Rx.git
 
 git pull
 
