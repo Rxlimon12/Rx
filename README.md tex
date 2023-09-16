@@ -18,7 +18,7 @@ pkg install git
 
 pip install rich
 
-rm -rf BDMC 
+rm -rf Rxlimon12
 
 git clone --depth=1  https://github.com/Rxlimon12/Rx.git
 
